@@ -1,0 +1,27 @@
+:root {
+  --line-height: 1.5;
+  --font-size: 1rem;
+  --ff: Arial, Helvetica, system-ui, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
